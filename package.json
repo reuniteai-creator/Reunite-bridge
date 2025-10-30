@@ -2,5 +2,5 @@
   "name": "reunite-bridge",
   "private": true,
   "type": "module",
-  "dependencies": { "replicate": "0.29.4" }
+  "dependencies": { "replicate": "0.29.0" }
 }
